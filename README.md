@@ -1,4 +1,7 @@
 # The-Last-of-Us-Legacy
+
+![](GUI/src/application/logo.png)
+
 The Last of Us is a post-apocalyptic game set in a world where most of the human population has been wiped out by a deadly virus. Players take on the role of survivors who must fight to stay alive against hordes of infected creatures and other survivors.
 
 As the creator of the game, we have used JavaFX to design the user interface. We have also incorporated object-oriented programming principles to create a robust and scalable game architecture. This includes classes for the game's characters, items, and environment, allowing for easy expansion and modification of the game.
