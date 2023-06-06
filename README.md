@@ -7,10 +7,10 @@ The Last of Us: Legacy is a single player survival game set in a zombie apocalyp
 
 The player starts the game controlling only one hero, but can gain additional heroes by curing zombies. The objective of the game for the player is to survive as long as it takes in order to cure a sufficient number of zombies enough to build a community to survive the apocalypse.
 
-#Characters
+# Characters
 Characters in the game are split into Heroes or Zombies
 
-#Heroes
+# Heroes
 Heroes are the types of characters that the player can control. There are several types of heroes available in the game, each one provides different assets for the player in order to win the game.
 Any character; Zombie or Hero, has an initial amount of health that decreases whenever they are attacked. If the character’s health ever reaches 0 they are killed and removed from the game.
 Considering that the aim of the game is to build a large enough community to survive the apocalypse thus the player must try to maintain and protect their heroes at all costs, as well as try to expand their available pool of heroes.
@@ -26,7 +26,7 @@ Possible actions that can be done by a character:
 • Cure a zombie
 • Use their class dependant unique action
 
-#Zombies
+# Zombies
 Zombies are the types of characters that threaten the player during the game. Zombies cannot
 be controlled, however they can be cured or attacked. Each time a zombie is killed another
 zombie will spawn somewhere on the map. In addition to extra zombies spawning every time
@@ -34,16 +34,16 @@ the player ends a turn.
 Whenever a zombie is cured an extra hero will take its place and be available for the player to
 use in future turns.
 
-#Collectibles
+# Collectibles
 Collectibles are scattered objects across the map that can help the player survive and advance in the game. Each collectible is only usable once, and after that is discarded from the hero’s inventory and cannot be reused.
 • Vaccines: Vaccines are an integral and important part of the game. As the player can only win the game once all vaccines have been collected and used. Vaccines are also the only means through which players can cure zombies and recruit new heroes.
 • Supplies: Supplies are the other type of collectible available in the game. Supplies enable the carrying hero to use their special action.
 
-#Gameplay Flow
+# Gameplay Flow
 The player starts off in a 15x15 grid map with just one hero and 10 zombies. The player can only see the directly adjacent cells next to their pool of heroes. The player then keeps taking his turn trying to collect vaccines, and cure or kill zombies. The game ends when the player has collected and used all vaccines or when all heroes have been overwhelmed and defeated by the zombies. The player only wins if he has successfully collected and used all vaccines and has 5 or more heroes alive.
 
 
-#NA
+# NA
 As the creator of the game, we have used JavaFX to design the user interface. We have also incorporated object-oriented programming principles to create a robust and scalable game architecture. This includes classes for the game's characters, items, and environment, allowing for easy expansion and modification of the game.
 
 One of the strengths of object-oriented programming is its ability to create reusable code. By creating classes, you can easily add new characters, items, and environments to the game without having to rewrite the code for each one. This makes it easy to expand the game's content and add new features in the future.
