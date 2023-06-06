@@ -48,8 +48,9 @@ Collectibles are scattered objects across the map that can help the player survi
 # Gameplay Flow
 The player starts off in a 15x15 grid map with just one hero and 10 zombies. The player can only see the directly adjacent cells next to their pool of heroes. The player then keeps taking his turn trying to collect vaccines, and cure or kill zombies. The game ends when the player has collected and used all vaccines or when all heroes have been overwhelmed and defeated by the zombies. The player only wins if he has successfully collected and used all vaccines and has 5 or more heroes alive.
 
+# Preview
 
-# NA
+# Message
 As the creator of the game, we have used JavaFX to design the user interface. We have also incorporated object-oriented programming principles to create a robust and scalable game architecture. This includes classes for the game's characters, items, and environment, allowing for easy expansion and modification of the game.
 
 One of the strengths of object-oriented programming is its ability to create reusable code. By creating classes, you can easily add new characters, items, and environments to the game without having to rewrite the code for each one. This makes it easy to expand the game's content and add new features in the future.
@@ -61,3 +62,4 @@ Building a game like The Last of Us requires careful testing and debugging to en
 Overall, The Last of Us is an impressive project that showcases your skills as a programmer. It combines the power of JavaFX with object-oriented programming principles to create a compelling and immersive game experience.
 
 We hope you enjoy playing The Last of Us as much as we enjoyed creating it!
+
