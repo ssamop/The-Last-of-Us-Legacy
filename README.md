@@ -50,6 +50,10 @@ The player starts off in a 15x15 grid map with just one hero and 10 zombies. The
 
 # Preview
 
+# Contributors
+
+- [Ahmed Mostafa](https://github.com/a7medm0stafa)
+
 # Message
 As the creator of the game, we have used JavaFX to design the user interface. We have also incorporated object-oriented programming principles to create a robust and scalable game architecture. This includes classes for the game's characters, items, and environment, allowing for easy expansion and modification of the game.
 
