@@ -53,11 +53,11 @@ You can check out a video of the game here
 
 Choosing Hero:
 
-![](preview/choosing hero.PNG)
+![](preview/choosinghero.PNG)
 
 Game View:
 
-![](preview/game view.PNG)
+![](preview/gameview.PNG)
 
 # Contributors
 
