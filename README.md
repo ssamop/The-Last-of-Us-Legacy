@@ -54,11 +54,11 @@ You can check out a video of the game here
 #### Choosing Hero:
 
 ![](preview/choosinghero.PNG)
--------------------
+=======================
 #### Game View:
 
 ![](preview/gameview.PNG)
--------------------
+=======================
 # Contributors
 
 - [Ahmed Mostafa](https://github.com/a7medm0stafa)
