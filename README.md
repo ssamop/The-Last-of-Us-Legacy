@@ -88,7 +88,7 @@ replace {...} with the path to the "lib" folder inside JavaFX that you installed
 #### Where in Git?
 To Start the Game, run the main method in StartScreen.
 
-Got to GUI -> Application -> StartScreen.java
+Go to GUI -> src -> Application -> StartScreen.java
 
 # Contributors
 
