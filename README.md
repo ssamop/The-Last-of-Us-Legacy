@@ -1,4 +1,4 @@
-npm install copy-text-to-clipboard
+import '@github/clipboard-copy-element'
 
 # The-Last-of-Us-Legacy
 
