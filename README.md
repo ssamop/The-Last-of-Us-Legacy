@@ -1,5 +1,3 @@
-import '@github/clipboard-copy-element'
-
 # The-Last-of-Us-Legacy
 
 ![](GUI/src/application/logo.png)
@@ -69,7 +67,9 @@ You can check out a video of the game here
   3. Open the command line terminal (or Windows PowerShell), navigate to the local repository and run:
  
  <div class="copy-to-clipboard">
+  ```js
   java --module-path "{...}" --add-modules javafx.controls,javafx.fxml,javafx.media -jar Ultimate-War.jar
+  ```
   
 replace {...} with the path to the "lib" folder inside JavaFX that you installed in step 1.
 
