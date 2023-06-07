@@ -51,17 +51,17 @@ The player starts off in a 15x15 grid map with just one hero and 10 zombies. The
 # Preview
 You can check out a video of the game here
 
-#### Choosing Hero:
+### Choosing Hero:
 
 ![](preview/choosinghero.PNG)
 =======================
-#### Game View:
+### Game View:
 
 ![](preview/gameview.PNG)
 =======================
 # How to Run
 
-#### Users Installation
+### Users Installation
   1. Install JDK from here and JavaFX from here (make sure to remember where you installed JavaFX)
   2. Download the game's ZIP file OR fork and clone into your local respository
   3. Open the command line terminal (or Windows PowerShell), navigate to the local repository and run:
@@ -72,7 +72,7 @@ You can check out a video of the game here
   
 replace {...} with the path to the "lib" folder inside JavaFX that you installed in step 1.
 
-##### Developers Installation
+### Developers Installation
   1. Install JDK from here, Eclipse from here, and JavaFX from here (make sure to remember where you installed it)
   2. Download the game's ZIP file OR fork and clone into your local respository
   3. Open Eclipse, Navigate to window -> preferences -> search for "user libraries" -> new -> type "JavaFX" -> Add External JARs... -> select the JARs you installed from step 2.
@@ -85,7 +85,7 @@ replace {...} with the path to the "lib" folder inside JavaFX that you installed
 
 replace {...} with the path to the "lib" folder inside JavaFX that you installed in step 1 and run.
 
-#### Where in Git?
+### Where in Git?
 To Start the Game, run the main method in StartScreen.
 
 Go to GUI -> src -> Application -> StartScreen.java
