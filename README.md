@@ -49,7 +49,7 @@ Collectibles are scattered objects across the map that can help the player survi
 The player starts off in a 15x15 grid map with just one hero and 10 zombies. The player can only see the directly adjacent cells next to their pool of heroes. The player then keeps taking his turn trying to collect vaccines, and cure or kill zombies. The game ends when the player has collected and used all vaccines or when all heroes have been overwhelmed and defeated by the zombies. The player only wins if he has successfully collected and used all vaccines and has 5 or more heroes alive.
 
 # Preview
-You can check out a video of the game here
+**You can check out a video of the game here**
 
 ### Choosing Hero:
 
