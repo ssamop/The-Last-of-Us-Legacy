@@ -50,10 +50,14 @@ The player starts off in a 15x15 grid map with just one hero and 10 zombies. The
 
 # Preview
 You can check out a video of the game here
+
 Choosing Hero:
+
 ![](preview/choosing hero.PNG)
+
 Game View:
 
+![](preview/game view.PNG)
 
 # Contributors
 
