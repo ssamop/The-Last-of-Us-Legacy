@@ -59,6 +59,29 @@ You can check out a video of the game here
 
 ![](preview/gameview.PNG)
 =======================
+# How to Run
+
+#### Users Installation
+  1. Install JDK from here and JavaFX from here (make sure to remember where you installed JavaFX)
+  2. Download the game's ZIP file OR fork and clone into your local respository
+  3. Open the command line terminal (or Windows PowerShell), navigate to the local repository and run:
+java --module-path "{...}" --add-modules javafx.controls,javafx.fxml,javafx.media -jar Ultimate-War.jar
+replace {...} with the path to the "lib" folder inside JavaFX that you installed in step 1.
+
+##### Developers Installation
+  1. Install JDK from here, Eclipse from here, and JavaFX from here (make sure to remember where you installed it)
+  2. Download the game's ZIP file OR fork and clone into your local respository
+  3. Open Eclipse, Navigate to window -> preferences -> search for "user libraries" -> new -> type "JavaFX" -> Add External JARs... -> select the JARs you installed from step 2.
+  4. Open the project using Eclipse, right click on it and choose Build Path -> Configure Build Path -> Add Library -> User Library -> JavaFX
+  5. Right Click on the project, Run as -> Run configurations -> Select "View" from left bar -> Arguments and paste the following under VM arguments:
+"--module-path {...} --add-modules javafx.controls,javafx.fxml,javafx.media"
+replace {...} with the path to the "lib" folder inside JavaFX that you installed in step 1 and run.
+
+#### Where in Git?
+To Start the Game, run the main method in StartScreen.
+
+Got to GUI -> Application -> StartScreen
+
 # Contributors
 
 - [Ahmed Mostafa](https://github.com/a7medm0stafa)
