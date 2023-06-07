@@ -1,3 +1,5 @@
+npm install copy-text-to-clipboard
+
 # The-Last-of-Us-Legacy
 
 ![](GUI/src/application/logo.png)
