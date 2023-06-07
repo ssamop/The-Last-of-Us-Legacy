@@ -78,7 +78,11 @@ replace {...} with the path to the "lib" folder inside JavaFX that you installed
   3. Open Eclipse, Navigate to window -> preferences -> search for "user libraries" -> new -> type "JavaFX" -> Add External JARs... -> select the JARs you installed from step 2.
   4. Open the project using Eclipse, right click on it and choose Build Path -> Configure Build Path -> Add Library -> User Library -> JavaFX
   5. Right Click on the project, Run as -> Run configurations -> Select "View" from left bar -> Arguments and paste the following under VM arguments:
-"--module-path {...} --add-modules javafx.controls,javafx.fxml,javafx.media"
+
+```sh
+ "--module-path {...} --add-modules javafx.controls,javafx.fxml,javafx.media"
+```
+
 replace {...} with the path to the "lib" folder inside JavaFX that you installed in step 1 and run.
 
 #### Where in Git?
